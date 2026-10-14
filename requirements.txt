@@ -1,0 +1,2 @@
+# Nur für fat_strip.py optional nötig
+pycryptodome==3.23.0

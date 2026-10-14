@@ -1,0 +1,27 @@
+# ---- Zugangsdaten & Gerätegeheimnisse (NIE committen) ----
+config.env
+.env
+*.dylib
+*.framework/
+*.deb
+*.ipa
+*.zip
+*.tar.gz
+*.7z
+conv_*/
+flat_*/
+cephei*/
+orig/
+out/
+test/
+lcout*/
+hoarder.7z
+Packages
+rpkg
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+
+# ---- Logs ----
+*.log
